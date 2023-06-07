@@ -45,7 +45,7 @@ body::before {
 	width: 100%;
 }
 .maintenance-title > .icon {
-	background: url("assets/Hycu_maintenance_icon.svg") no-repeat;
+	background: url("assets/hycu_maintenance_icon.svg") no-repeat;
 	width: 89px;
 	height: 89px;
 }
